@@ -1,0 +1,11 @@
+C:\Users\mmmir\Desktop\STOKKAYIT\AraçStokProjesi\AraçStokProjesi\bin\Debug\AraçStokProjesi.exe.config
+C:\Users\mmmir\Desktop\STOKKAYIT\AraçStokProjesi\AraçStokProjesi\bin\Debug\AraçStokProjesi.exe
+C:\Users\mmmir\Desktop\STOKKAYIT\AraçStokProjesi\AraçStokProjesi\bin\Debug\AraçStokProjesi.pdb
+C:\Users\mmmir\Desktop\STOKKAYIT\AraçStokProjesi\AraçStokProjesi\obj\Debug\AraçStokProjesi.csproj.AssemblyReference.cache
+C:\Users\mmmir\Desktop\STOKKAYIT\AraçStokProjesi\AraçStokProjesi\obj\Debug\AraçStokProjesi.Properties.Resources.resources
+C:\Users\mmmir\Desktop\STOKKAYIT\AraçStokProjesi\AraçStokProjesi\obj\Debug\AraçStokProjesi.csproj.GenerateResource.cache
+C:\Users\mmmir\Desktop\STOKKAYIT\AraçStokProjesi\AraçStokProjesi\obj\Debug\AraçStokProjesi.csproj.CoreCompileInputs.cache
+C:\Users\mmmir\Desktop\STOKKAYIT\AraçStokProjesi\AraçStokProjesi\obj\Debug\AraçStokProjesi.exe
+C:\Users\mmmir\Desktop\STOKKAYIT\AraçStokProjesi\AraçStokProjesi\obj\Debug\AraçStokProjesi.pdb
+C:\Users\mmmir\Desktop\STOKKAYIT\AraçStokProjesi\AraçStokProjesi\obj\Debug\AraçStokProjesi.YöneticiEkrani.resources
+C:\Users\mmmir\Desktop\STOKKAYIT\AraçStokProjesi\AraçStokProjesi\obj\Debug\AraçStokProjesi.giriş.resources
